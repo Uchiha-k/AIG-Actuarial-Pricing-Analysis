@@ -37,6 +37,6 @@ Analyze historical claims data to understand patterns (frequency, severity, geog
 Power BI (DAX, visuals, slicers), data profiling and categorization.
 
 ## How to view
-Dashboard screenshots in `/dashboard-screenshots/`. DAX measures and methods documented for transparency.
+Dashboard screenshots in `/Screenshot For AIG Pricing.png/`. DAX measures and methods documented for transparency.
 
 
